@@ -33,7 +33,7 @@ Deployed with GitHub Pages, served straight from the `main` branch. No build pip
 
 I built this with Claude (Anthropic), going back and forth on the concept, the copy, the animation logic, and the layout until it matched what I wanted. I made the calls on content, structure, and design direction; Claude wrote and revised the code.
 
-If you want to build something similar for yourself, here's the prompt I'd hand to Claude to get started. Swap in your own theme and details.
+If you want to build something similar for yourself, here's the prompt I'd hand to Claude to get started. Swap in your own theme and details. For example, you can make a matcha version or crochet a piece of clothing. The goal is was to have fun with my portfolio, showing a little bit of myself outside of my work experience. 
 
 ### Prompt to build your own
 
